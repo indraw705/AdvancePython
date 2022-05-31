@@ -1,0 +1,49 @@
+2022-05-30 >> process.name
+
+{'/usr/bin/bash': 150432,
+ '/usr/bin/sed': 85481,
+ '/usr/bin/tee': 24005,
+ '/usr/bin/runc': 19183,
+ '/usr/bin/dirname': 18981,
+ '/usr/bin/uname': 18894,
+ '/usr/bin/gawk': 17216,
+ '/usr/bin/ls': 15380,
+ '/usr/bin/grep': 12362,
+ '/usr/bin/docker-init': 8700}
+
+2022-05-30 >> file.name
+
+{'translog.ckp': 69166,
+ 'replication-offset-checkpoint': 30982,
+ 'cgroup.procs': 22592,
+ 'civetweb.access.log': 16054,
+ 'splunkd.pid': 9786,
+ 'ossec-agentd.state': 6661,
+ 'bcirules.xml': 6351,
+ 'log.json': 4977,
+ 'ossec.log': 4323,
+ 'log-start-offset-checkpoint': 3445}
+
+2022-05-30 >> network.process.name
+
+{'/usr/bin/bash': 150432,
+ '/usr/bin/sed': 85481,
+ '/usr/bin/tee': 24005,
+ '/usr/bin/runc': 19183,
+ '/usr/bin/dirname': 18981,
+ '/usr/bin/uname': 18894,
+ '/usr/bin/gawk': 17216,
+ '/usr/bin/ls': 15380,
+ '/usr/bin/grep': 12362,
+ '/usr/bin/docker-init': 8700}
+
+2022-05-30 >> asset.agentid
+
+0:
+129792:
+206733:
+84626:
+134443:
+73288:
+573579:
+0:
